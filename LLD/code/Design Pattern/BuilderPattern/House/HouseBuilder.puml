@@ -1,0 +1,50 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+
+left to right direction
+class ClientApplication{
+}
+class IglooDirector{
++construct(type):type
+}
+class CastleDirector{
++ construct(type):type
+}
+class HouseBoatDirector{
++ construct(type):type
+}
+interface IHouseBuilder{
++ set_building_type(int)
++ set_number_walls(int)
++ set_number_windows(int)
++ set_number_doors(int)
++ get_result()
+}
+class HouseBuilder extends IHouseBuilder{
++ set_building_type(int)
++ set_number_walls(int)
++ set_number_windows(int)
++ set_number_doors(int)
++ get_result()
+}
+
+class House{
++ building_type:str
++ doors:int
++ wall_material:str
++ windows:int
++ construct():str
+}
+
+
+ClientApplication o...>IglooDirector
+ClientApplication o...>HouseBoatDirector
+ClientApplication o...>CastleDirector
+IglooDirector o...>HouseBuilder
+HouseBoatDirector o...>HouseBuilder
+CastleDirector o...>HouseBuilder
+HouseBuilder #...>House
+
+@enduml

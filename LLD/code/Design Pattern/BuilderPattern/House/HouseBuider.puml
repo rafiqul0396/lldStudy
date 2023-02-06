@@ -1,0 +1,28 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+top to bottom direction
+interface IBuilder{
++build_part_a(type):type
++build_part_b(type):type
++build_part_c(type):type
+
+
+}
+class Builder extends IBuilder{
++build_part_a(type):type
++build_part_b(type):type
++build_part_c(type):type
+}
+
+class Products{
++parts(type):type
+}
+class Director{
++constructor(type):type
+}
+
+Products <--* Builder
+Director o-->Builder
+
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface IPrototype {
+
++clone():
+}
+
+class ConcretePrototype1 extends IPrototype{
++D:dict
++i:int
++s:str
++l:list
+}
+class ConcretePrototype2 extends IPrototype{
++D:dict
++i:int
+ +s:str
+ +l:list
+ }
+@enduml
