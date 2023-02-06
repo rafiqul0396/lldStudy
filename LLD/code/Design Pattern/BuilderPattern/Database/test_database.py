@@ -21,8 +21,10 @@ def test_database_():
 def test_database_builder():
         b=DataStore.DataStorebUILDER("sql",123,12346)
         a=DataStore.DataStorebUILDER.build(b)
+
         assert  isinstance(a,DataStore)
-def test_database_abd():
+@staticmethod
+def test_database_abd(self):
     a=DataStore.DataStorebUILDER.setHostname("localhost").setPort("12346").setPassword("password")
     b=a.build()
     assert isinstance(b,DataStore)
