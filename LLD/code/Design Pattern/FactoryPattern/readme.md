@@ -4,10 +4,7 @@
 
 ### Simple Factory
 
-
 > The simple factory pattern is a creational pattern that provides a static method for creating objects. The method can be used to create objects without having to specify the exact class of the object that will be created. This is done by creating a factory class that contains a static method for creating objects.
-
-
 
 ### what are the problem 👍
 
@@ -38,11 +35,14 @@ we have use **Sample factory**
 4. create Driver class for Test
 
 
-
 |          | Prototype                                        | factory                                     |
 | -------- | ------------------------------------------------ | ------------------------------------------- |
 | def      | multiple instances without<br /><br />recreating | single instances from multiples types<br /> |
 | subclass | still dependent on contructor/subclasses         | indepent of subclasses                      |
 
-
 ### Prototype + Factory =Factory method
+
+
+1. step-1: create a functory class
+2. create a concreate classes
+3. then mapp with factory class

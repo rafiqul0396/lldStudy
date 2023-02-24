@@ -1,0 +1,49 @@
+@startuml
+'https://plantuml.com/use-case-diagram
+
+left to right direction
+package actor{
+actor Customer
+actor manager
+actor operator
+actor Bank
+}
+
+package ATM{
+usecase "Balance inquiry" as c1
+usecase "Deposit" as c2
+usecase "cash widraw" as c3
+usecase "Transaction " as c4
+usecase "tranfer" as c5
+usecase "Deposit Cash" as c6
+usecase "Deposit cheque" as c7
+usecase "Login/logout" as c8
+usecase "change pin" as c9
+usecase " refill cash" as c10
+usecase "refill recipient" as c11
+usecase "refill ink" as c12
+usecase "system shutdown/start" as c13
+usecase "Block card/account" as c14
+usecase "total amount" as c15
+usecase "generate receipt" as c16
+manager --->c15
+manager --->c16
+Bank --->c14
+operator --->c11
+operator --->c12
+operator --->c13
+operator --->c10
+
+Customer--->c8
+Customer--->c9
+
+Customer --->c4
+c4<...c1:<extends>
+c4<...c2:<extends>
+c4<...c3:<extends>
+c4<...c5:<extends>
+c2<...c6:<extends>
+c2<...c7:<extends>
+}
+
+@enduml

@@ -1,0 +1,28 @@
+@startuml
+'https://plantuml.com/class-diagram
+left to right direction
+abstract class  Button{
++render():print
++onClick():print
+}
+abstract class  ButtonFactory{
++createButton():Button
+}
+
+class RoundButton extends Button{
++render():print
++onClick():print
+}
+class PrimaryButton extends Button{
++render():print
++onClick():print
+}
+class PrimaryButtonFactory extends ButtonFactory{
++createButton():Botton
+}
+class RoundButtonFactory extends ButtonFactory{
++createButton():Botton
+}
+RoundButtonFactory o...>RoundButton
+PrimaryButtonFactory o...>PrimaryButton
+@enduml
