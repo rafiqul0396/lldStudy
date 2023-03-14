@@ -5,60 +5,114 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0111c435-eb50-43fa-a7d6-a39f5860965f" name="Changes" comment="Create python-app.yml">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Backtracking/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/ClassDiagram/ButtonFactoryMethod.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/Notes/classesNotes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/Notes/factory.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/Notes/solidprinciples.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/AdopterDesignPattern/DucksEample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/AdopterDesignPattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/AdopterDesignPattern/adopterconcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/AdopterDesignPattern/strtoInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/Facade/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/Facade/facadeDesign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/DarkCheckbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/darkFormFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/darkbutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/factorys/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/formFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/lightCheckBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/lightFormFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/lightbutton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/models/Button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/Button/models/checkBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/abstractFactory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/Atm.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/BankATMCashDispenserKeypadScreenPrinterandDepositSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/Customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/Enumeration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/Transactionanditssubclasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ATM/widrawwmoney.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/Ink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/InkType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/Nib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/NibType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/Pen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/PenType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/Refill.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/RefillType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/Design_pen/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ParkingLot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/ParkingLot/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MACHINE_CODING/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/CookBook/FilesStudy/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/CookBook/FilesStudy/readAndWrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/CookBook/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/utility/Study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/utility/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/ObserverDesignPattern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/DIproblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/ISPproblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/ISPsolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSPSolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/lspProblem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/solid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/solution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/accounts/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/enums/study_enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/heaps/max_heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/abstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/mamal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/neabstract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/dataModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/discriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/ingeritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/memtor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/oops.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/CusmuerandSeller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/Singletasking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/conditon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/multitasking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/mutliprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/nameofThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/1. Thread Basics.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/2. Thread Data &amp; Race Conditions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/3. Deadlocks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/4. Producer-Consumer model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/5. The Python GIL.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/6. Multiprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/7. concurrent.futures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/8. Parallel.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Create Database.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Download Crypto Data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Example - Thread.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Example - concurrent.futures.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Insert in Database.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/mexbt_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_btc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_eth.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_ltc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/flask_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/prices.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/data/prime_mixture.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/Deadlock_at_a_four-way-stop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/cpu_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/deadlocks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/gil_meme.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/multiple_process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/parallel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/producer-consumer-model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/recording_studio_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thistall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thread_shared_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thread_states.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/sleep_n_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/que1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/threadclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/threadconstructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/threadwithchildclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadingPython/withoutUsingThread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,13 +159,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LNBG1xFPMqpfPAkkZNnxKsWyQW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Use Case&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -134,8 +191,8 @@
       <recent name="C:\Users\rafiqul.islam\IdeaProjects\lldStudy\LLD\code\Design Pattern\FactoryPattern\abstractFactory\Button\factorys" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pen">
-    <configuration name="Pen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DIproblem">
+    <configuration name="DIproblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lldStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +200,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MACHINE_CODING/Design_pen" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MACHINE_CODING/Design_pen/Pen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/DIproblem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +214,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="facadeDesign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LSP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lldStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +222,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/Design Pattern/Facade" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/Design Pattern/Facade/facadeDesign.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +236,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readAndWrite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LSPSolution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lldStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +244,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonStudy/CookBook/FilesStudy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonStudy/CookBook/FilesStudy/readAndWrite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSPSolution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,43 +258,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test.MyTestCase.test_something" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="lspProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lldStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/Design Pattern/BuilderPattern/Database" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test.MyTestCase.test_something&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/lspProblem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.MyTestCase.test_something" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="solution1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lldStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/Button" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.MyTestCase.test_something&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/solution1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pen" />
-        <item itemvalue="Python.facadeDesign" />
-        <item itemvalue="Python.readAndWrite" />
-        <item itemvalue="Python tests.Python tests for test.MyTestCase.test_something" />
-        <item itemvalue="Python tests.Python tests for Test.MyTestCase.test_something" />
+        <item itemvalue="Python.DIproblem" />
+        <item itemvalue="Python.LSPSolution" />
+        <item itemvalue="Python.LSP" />
+        <item itemvalue="Python.lspProblem" />
+        <item itemvalue="Python.solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +327,13 @@
       <workItem from="1676138351187" duration="12613000" />
       <workItem from="1676490064949" duration="5000" />
       <workItem from="1676712005273" duration="668000" />
-      <workItem from="1677220476095" duration="2224000" />
+      <workItem from="1677220476095" duration="3429000" />
+      <workItem from="1677478661864" duration="863000" />
+      <workItem from="1677515996561" duration="4000" />
+      <workItem from="1677564332299" duration="961000" />
+      <workItem from="1677577973058" duration="630000" />
+      <workItem from="1677941452670" duration="9389000" />
+      <workItem from="1678772217318" duration="691000" />
     </task>
     <task id="LOCAL-00001" summary="Create python-app.yml">
       <created>1675720881362</created>
@@ -265,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675720881362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create python-app.yml">
+      <created>1677223642213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677223642214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,13 +360,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/database-v1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="yes we have add new button" />
     <MESSAGE value="Create python-app.yml" />
     <option name="LAST_COMMIT_MESSAGE" value="Create python-app.yml" />
@@ -335,12 +432,17 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lldStudy$Hello.coverage" NAME="Hello Coverage Results" MODIFIED="1675701977422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lldStudy$DatabaseDrive.coverage" NAME="DatabaseDrive Coverage Results" MODIFIED="1675710374669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/Database" />
     <SUITE FILE_PATH="coverage/lldStudy$PizzaTestDrive.coverage" NAME="PizzaTestDrive Coverage Results" MODIFIED="1675702575490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/PizzaSample" />
-    <SUITE FILE_PATH="coverage/lldStudy$privateconstructor.coverage" NAME="privateconstructor Coverage Results" MODIFIED="1675711693396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/utility" />
     <SUITE FILE_PATH="coverage/lldStudy$readAndWrite.coverage" NAME="readAndWrite Coverage Results" MODIFIED="1676059598765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonStudy/CookBook/FilesStudy" />
+    <SUITE FILE_PATH="coverage/lldStudy$lspProblem.coverage" NAME="lspProblem Coverage Results" MODIFIED="1677946039229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
     <SUITE FILE_PATH="coverage/lldStudy$.coverage" NAME=" Coverage Results" MODIFIED="1675780046073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/BuilderPattern" />
-    <SUITE FILE_PATH="coverage/lldStudy$facadeDesign.coverage" NAME="facadeDesign Coverage Results" MODIFIED="1676138449499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/Facade" />
     <SUITE FILE_PATH="coverage/lldStudy$Pen.coverage" NAME="Pen Coverage Results" MODIFIED="1676215813939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MACHINE_CODING/Design_pen" />
+    <SUITE FILE_PATH="coverage/lldStudy$LSPSolution.coverage" NAME="LSPSolution Coverage Results" MODIFIED="1677946888864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
+    <SUITE FILE_PATH="coverage/lldStudy$DIproblem.coverage" NAME="DIproblem Coverage Results" MODIFIED="1677949305933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
+    <SUITE FILE_PATH="coverage/lldStudy$solution1.coverage" NAME="solution1 Coverage Results" MODIFIED="1677944348330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
+    <SUITE FILE_PATH="coverage/lldStudy$DatabaseDrive.coverage" NAME="DatabaseDrive Coverage Results" MODIFIED="1675710374669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/FactoryPattern/Database" />
+    <SUITE FILE_PATH="coverage/lldStudy$LSP.coverage" NAME="LSP Coverage Results" MODIFIED="1677946194567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES" />
+    <SUITE FILE_PATH="coverage/lldStudy$privateconstructor.coverage" NAME="privateconstructor Coverage Results" MODIFIED="1675711693396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/utility" />
+    <SUITE FILE_PATH="coverage/lldStudy$facadeDesign.coverage" NAME="facadeDesign Coverage Results" MODIFIED="1676138449499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LLD/code/Design Pattern/Facade" />
   </component>
 </project>
