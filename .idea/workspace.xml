@@ -5,114 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0111c435-eb50-43fa-a7d6-a39f5860965f" name="Changes" comment="Create python-app.yml">
-      <change afterPath="$PROJECT_DIR$/LLD/code/Design Pattern/ObserverDesignPattern/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/DIproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/ISPproblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/ISPsolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/LSPSolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/lspProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/solid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD/code/SOLIDPRINCIPLES/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/accounts/Account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/enums/study_enums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/heaps/max_heap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/mamal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/neabstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/abstract/polygon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/dataModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/discriptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/ingeritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/memtor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/oops.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/students.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/CusmuerandSeller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/Singletasking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/conditon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/multitasking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/mutliprocess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/nameofThread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/1. Thread Basics.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/2. Thread Data &amp; Race Conditions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/3. Deadlocks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/4. Producer-Consumer model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/5. The Python GIL.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/6. Multiprocessing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/7. concurrent.futures.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/8. Parallel.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Create Database.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Download Crypto Data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Example - Thread.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Example - concurrent.futures.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/Insert in Database.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitfinex_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bitstamp_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/bittrex_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/cexio_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/coinbase-pro_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/hitbtc_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/huobi_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/kraken_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/mexbt_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/okex_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_btc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_eth.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/crypto_data/poloniex_ltc.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/flask_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/prices.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/crypto-examples/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/data/prime_mixture.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/Deadlock_at_a_four-way-stop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/cpu_data.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/deadlocks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/gil_meme.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/multiple_process.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/parallel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/producer-consumer-model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/recording_studio_light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thistall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thread_shared_data.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/img/thread_states.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/pycon-concurrency-tutorial-2020-master (1)/pycon-concurrency-tutorial-2020-master/sleep_n_seconds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/que1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/threadclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/threadconstructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/threadwithchildclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadingPython/withoutUsingThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonStudy/NotesOfOOPs/introduction_oops.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonStudy/OOPS/python_oops/generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,6 +229,7 @@
       <workItem from="1677577973058" duration="630000" />
       <workItem from="1677941452670" duration="9389000" />
       <workItem from="1678772217318" duration="691000" />
+      <workItem from="1678774345119" duration="1713000" />
     </task>
     <task id="LOCAL-00001" summary="Create python-app.yml">
       <created>1675720881362</created>
@@ -349,7 +245,42 @@
       <option name="project" value="LOCAL" />
       <updated>1677223642214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create python-app.yml">
+      <created>1678775176543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678775176543</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create python-app.yml">
+      <created>1678775212103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678775212103</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create python-app.yml">
+      <created>1678775289400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678775289400</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create python-app.yml">
+      <created>1678775326019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678775326019</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create python-app.yml">
+      <created>1678775418264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678775418264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
